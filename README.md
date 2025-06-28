@@ -2,7 +2,7 @@
 
 TelHound is a Windows desktop application that monitors active network connections in real-time, identifies potential telemetry or tracking endpoints, and provides tools to investigate and block them.
 
-![Screenshot of TelHound](assets\demo.png) 
+![Screenshot of TelHound](\assets\demo.png) 
 
 ## Features
 
